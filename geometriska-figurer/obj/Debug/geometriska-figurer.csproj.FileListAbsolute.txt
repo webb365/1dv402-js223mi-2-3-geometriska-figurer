@@ -1,2 +1,6 @@
 P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\bin\Debug\geometriska-figurer.exe.config
 P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\obj\Debug\geometriska-figurer.csprojResolveAssemblyReference.cache
+P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\bin\Debug\geometriska-figurer.exe
+P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\bin\Debug\geometriska-figurer.pdb
+P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\obj\Debug\geometriska-figurer.exe
+P:\uppgifter\1dv402-js223mi-2-3-geometriska-figurer\geometriska-figurer\obj\Debug\geometriska-figurer.pdb
